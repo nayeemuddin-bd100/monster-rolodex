@@ -2,7 +2,7 @@
 The completed version of our monsters rolodex project!
 
 ## project overview
-I have been created first project with React called monster rolodex .In this project I used some cool features of react . Here are I used some reuseable component. Which have some dynamic data I brought by api.
+I have created the first project with React called monster Rolodex. In this project, I used some cool features of react. Here are some reusable component, which has some dynamic data I brought by API.
 
 live -https://nayeemuddin-bd100.github.io/monster-rolodex/
 
